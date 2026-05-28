@@ -1,0 +1,82 @@
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\obj\Debug\net8.0-windows\CarWashIS.csproj.AssemblyReference.cache
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\obj\Debug\net8.0-windows\CarWashIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\obj\Debug\net8.0-windows\CarWashIS.AssemblyInfoInputs.cache
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\obj\Debug\net8.0-windows\CarWashIS.AssemblyInfo.cs
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\obj\Debug\net8.0-windows\CarWashIS.csproj.CoreCompileInputs.cache
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\CarWashIS.exe
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\CarWashIS.deps.json
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\CarWashIS.runtimeconfig.json
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\CarWashIS.dll
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\CarWashIS.pdb
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\obj\Debug\net8.0-windows\CarWashIS.csproj.Up2Date
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\obj\Debug\net8.0-windows\CarWashIS.dll
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\obj\Debug\net8.0-windows\refint\CarWashIS.dll
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\obj\Debug\net8.0-windows\CarWashIS.pdb
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\obj\Debug\net8.0-windows\CarWashIS.genruntimeconfig.cache
+C:\Users\klami\Desktop\Кожевников Влад\CarWashIS\obj\Debug\net8.0-windows\ref\CarWashIS.dll
+c:\Users\klami\Desktop\Автомойка\CarWashIS\obj\Debug\net8.0-windows\CarWashIS.csproj.AssemblyReference.cache
+c:\Users\klami\Desktop\Автомойка\CarWashIS\obj\Debug\net8.0-windows\CarWashIS.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\klami\Desktop\Автомойка\CarWashIS\obj\Debug\net8.0-windows\CarWashIS.AssemblyInfoInputs.cache
+c:\Users\klami\Desktop\Автомойка\CarWashIS\obj\Debug\net8.0-windows\CarWashIS.AssemblyInfo.cs
+c:\Users\klami\Desktop\Автомойка\CarWashIS\obj\Debug\net8.0-windows\CarWashIS.csproj.CoreCompileInputs.cache
+c:\Users\klami\Desktop\Автомойка\CarWashIS\obj\Debug\net8.0-windows\CarWashIS.dll
+c:\Users\klami\Desktop\Автомойка\CarWashIS\obj\Debug\net8.0-windows\refint\CarWashIS.dll
+c:\Users\klami\Desktop\Автомойка\CarWashIS\obj\Debug\net8.0-windows\CarWashIS.pdb
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\CarWashIS.exe
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\CarWashIS.deps.json
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\CarWashIS.runtimeconfig.json
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\CarWashIS.dll
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\CarWashIS.pdb
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+c:\Users\klami\Desktop\Автомойка\CarWashIS\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+c:\Users\klami\Desktop\Автомойка\CarWashIS\obj\Debug\net8.0-windows\CarWashIS.csproj.Up2Date
+c:\Users\klami\Desktop\Автомойка\CarWashIS\obj\Debug\net8.0-windows\CarWashIS.genruntimeconfig.cache
+c:\Users\klami\Desktop\Автомойка\CarWashIS\obj\Debug\net8.0-windows\ref\CarWashIS.dll
