@@ -31,7 +31,7 @@
 ## Интерфейс программы 
 В первую очередь он был спроектирован с учётом удобства использования.
 - Форма авторизации <br>
-<div align="center"> <img width="504" height="408" alt="image" src="" /> </div> <br>
+<div align="center"> <img width="504" height="408" alt="image" src=""C:\Users\klami\Pictures\Screenshots\Снимок экрана 2026-05-27 084356.png"" /> </div> <br>
 - Главная форма администратора <br> <br>
 <div align="center"> <img width="895" height="487" alt="image" src="https://github.com/user-attachments/assets/4497a5aa-9579-45a9-9eaf-c57ded97dd9b" /> </div> <br>
 - Форма пользователя <br> <br>
